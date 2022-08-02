@@ -5,6 +5,8 @@
 
 Real Estate is still the best long-term investment.  Given enough time, almost all real estate will appreciate in value, which means the investment market LOVES to buy and sell it.  For those with enough money, vision, focus, and tenacity, the real estate market offers the opportunity for profit, whether it’s for land to grow lumber, residential development, or building skyscrapers.  
 
+This project is a hypothetical presentation to the fictional company MTB Investment Group as part of the fulfillment of requirements toward graduation from the Data Science program at Flatiron School
+
 ## Business Understanding and Dataset
 
 What are the top 5 best zip codes for us to invest in?
